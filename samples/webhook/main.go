@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	bot "github.com/meinside/telegram-bot-go"
+	bot "github.com/git2akh/telegram-bot-go"
 )
 
 const (
