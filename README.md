@@ -7,12 +7,12 @@ View the [documentation here](https://godoc.org/github.com/meinside/telegram-bot
 ## How to get
 
 ```
-$ go get -u github.com/meinside/telegram-bot-go
+$ go get -u github.com/git2akh/telegram-bot-go
 ```
 
 ## Usage
 
-See codes in [samples/](https://github.com/meinside/telegram-bot-go/tree/master/samples).
+See codes in [samples/](https://github.com/git2akh/telegram-bot-go/tree/master/samples).
 
 ## Not implemented yet
 
